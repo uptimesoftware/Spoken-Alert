@@ -1,0 +1,1 @@
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -file d:\uptime\scripts\speakalert.ps1 HOST_TO_MAKE_TALK female 1 "The service, %UPTIME_SERVICENAME%, has entered the %UPTIME_SERVICESTATE% state, and has been so for %UPTIME_DURATION%. its host, %UPTIME_HOSTNAME%, is in the %UPTIME_HOSTSTATE% status."
